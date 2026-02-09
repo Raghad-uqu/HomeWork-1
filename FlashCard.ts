@@ -1,4 +1,4 @@
-// flashcard.ts
+
 export class Flashcard {
     constructor(public question: string, public isMistake: boolean) {}
 
